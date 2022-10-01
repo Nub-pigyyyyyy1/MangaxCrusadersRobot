@@ -1,6 +1,6 @@
 # MangaxCrusadersRobot
 ![MangaxCrusadersRobot](https://te.legra.ph/file/488fdee95824d3c41405f.jpg) 
-Read manga from your favourite websites on telegram!! Build by [kira](https://t.me/kira_yoshikage_789) 
+Read manga from your favourite websites on telegram!! Build by [kira](https://GitHub.com/Yoshikage1) 
 
 ## Network
 [Otaku_Binge](https://t.me/Otaku_Binge)
